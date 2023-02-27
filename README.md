@@ -1,2 +1,2 @@
 # Insurance-Claims-Severity
-Insurance claims severity prediction is vital for insurers to estimate potential claim costs. 
+Insurance claims severity prediction is crucial for insurers to accurately estimate potential claim costs. It enables them to make informed decisions, optimize risk management, and pricing policies while improving customer experience. Ultimately, accurate claims severity prediction helps insurers prevent losses and improve profitability.
